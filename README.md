@@ -1,6 +1,6 @@
 [![Masterhead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)]
 <h1 align="center">Hello, I'm Rafi Afsan! 👋</h1>
-<img align="right" alt="Coding width="400" src="[https://gifdb.com/images/high/funny-animated-bear-fart-65ma4cty46e5dw54.gif](https://i.giphy.com/RbDKaczqWovIugyJmW.webp)">
+<img align="right" alt="Coding width="400" src="[https://i.giphy.com/RbDKaczqWovIugyJmW.webp]">
 
 <h2>About Me</h2>
 <p>
